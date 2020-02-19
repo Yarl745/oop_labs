@@ -1,1 +1,1 @@
-print('lab1')
+print('='.join(['1' for i in range(10)]))
