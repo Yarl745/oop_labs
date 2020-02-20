@@ -1,0 +1,42 @@
+[33mcommit a206481f27d12d854f7edb1d11fddde389d533cf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Yarikslav <kopailo2002@gmail.com>
+Date:   Thu Feb 20 04:01:30 2020 +0300
+
+    commit with first lab
+
+[33mcommit 8a15afb40e7ddc00883f1577b4b206edc11a82dc[m
+Author: Yarikslav <kopailo2002@gmail.com>
+Date:   Wed Feb 19 21:09:59 2020 +0300
+
+    4th commit
+
+[33mcommit ae10883754247568c829cb33def92499a1ef8179[m
+Author: Yarikslav <kopailo2002@gmail.com>
+Date:   Wed Feb 19 21:08:17 2020 +0300
+
+    third commit
+
+[33mcommit 42afd4d3df63360a71aab18341d22d4b9ece9c92[m
+Merge: 26196a6 a815c7f
+Author: Yarikslav <kopailo2002@gmail.com>
+Date:   Wed Feb 19 21:00:42 2020 +0300
+
+    Merge branch 'master' of https://github.com/Yarl745/oop_lab1
+
+[33mcommit a815c7f4d325868647879314954189aaacf1125a[m
+Author: Yarl745 <40667278+Yarl745@users.noreply.github.com>
+Date:   Wed Feb 19 21:53:44 2020 +0300
+
+    Create README.md
+
+[33mcommit 26196a698c2a045a373b1340afb114d5e0185662[m
+Author: Yarikslav <kopailo2002@gmail.com>
+Date:   Wed Feb 19 20:56:42 2020 +0300
+
+    second commit
+
+[33mcommit faf5c25efd0504e6fe83ca66cd8326ee4ce26942[m
+Author: Yarikslav <kopailo2002@gmail.com>
+Date:   Wed Feb 19 20:50:53 2020 +0300
+
+    first commit
