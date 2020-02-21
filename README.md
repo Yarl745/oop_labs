@@ -1,2 +1,2 @@
-# oop_lab1
-oop_lab1
+# oop_labs
+oop_labs
